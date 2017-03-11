@@ -1,0 +1,8 @@
+(module Adafruit_Bluefruit (layer F.Cu) (tedit 585809B8)
+  (fp_text reference REF** (at 0 -5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Adafruit_Bluefruit (at 0 -3) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
