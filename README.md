@@ -1,4 +1,4 @@
-#Apple M0110 BT PCB
+Apple M0110 BT PCB
 ===================
 
 A prototype replacement pcb for the Apple M0110 keyboard. 
@@ -8,7 +8,7 @@ send keycodes to the connected computer.
 
 [Supported Layouts](http://www.keyboard-layout-editor.com/#/gists/c975f91d0443088521a6b2a949161cee)
 
-###Parts list 
+Parts list 
 =============
 
 1. Teensy 2.0 x 1
@@ -21,7 +21,7 @@ If you're going the bluetooth route you will need the following additional items
 3. Adafruit Bluefruit 32u4 module instead of the Teensy
 4. 4.7k Ohm Resistors x4
 
-###Build Instructions
+Build Instructions
 =====================
 
 Coming Soon!
