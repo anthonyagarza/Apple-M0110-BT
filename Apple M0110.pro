@@ -1,4 +1,4 @@
-update=Saturday, March 04, 2017 'PMt' 08:58:18 PM
+update=Saturday, August 05, 2017 'AMt' 12:17:30 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,5 +61,4 @@ LibName29=valves
 LibName30=/Users/pruvan/Desktop/keyboard/freetronics_kicad_library-master/freetronics_schematic
 LibName31=teensy2
 LibName32=teensy2correct
-[general]
-version=1
+LibName33=/Users/pruvan/Desktop/keyboard/saucy_keyboard
